@@ -7,7 +7,7 @@ int main() {
     std::cin >> n;
     int i = 1;
     while (i <= n) {
-        std::cout << i << std::endl;
+        std::cout << i << " ";
         i = i + 1;
     }
 
